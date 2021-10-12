@@ -16,6 +16,7 @@
 
 
 ## Apa saja yang bisa dibuat menggunakan software ini?
-- Membuat berbagai jenis surat
-- Membuat berbagai jenis laporan
-- Membuat Ebook
+- Berbagai jenis surat
+- Berbagai jenis laporan
+- Jurnal
+- Ebook
